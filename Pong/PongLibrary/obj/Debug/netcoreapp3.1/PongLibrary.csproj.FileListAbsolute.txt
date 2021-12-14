@@ -1,0 +1,11 @@
+C:\Users\Harquin\source\repos\Pong\PongLibrary\bin\Debug\netcoreapp3.1\PongLibrary.deps.json
+C:\Users\Harquin\source\repos\Pong\PongLibrary\bin\Debug\netcoreapp3.1\PongLibrary.dll
+C:\Users\Harquin\source\repos\Pong\PongLibrary\bin\Debug\netcoreapp3.1\PongLibrary.pdb
+C:\Users\Harquin\source\repos\Pong\PongLibrary\obj\Debug\netcoreapp3.1\PongLibrary.AssemblyInfoInputs.cache
+C:\Users\Harquin\source\repos\Pong\PongLibrary\obj\Debug\netcoreapp3.1\PongLibrary.AssemblyInfo.cs
+C:\Users\Harquin\source\repos\Pong\PongLibrary\obj\Debug\netcoreapp3.1\PongLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Harquin\source\repos\Pong\PongLibrary\obj\Debug\netcoreapp3.1\PongLibrary.dll
+C:\Users\Harquin\source\repos\Pong\PongLibrary\obj\Debug\netcoreapp3.1\PongLibrary.pdb
+C:\Users\Harquin\source\repos\Pong\PongLibrary\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Harquin\source\repos\Pong\PongLibrary\obj\Debug\netcoreapp3.1\PongLibrary.csproj.AssemblyReference.cache
+C:\Users\Harquin\source\repos\Pong\PongLibrary\obj\Debug\netcoreapp3.1\PongLibrary.GeneratedMSBuildEditorConfig.editorconfig

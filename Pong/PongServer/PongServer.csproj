@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PongLibrary\PongLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Lidgren.Network">
+      <HintPath>bin\Debug\netcoreapp3.1\Lidgren.Network.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>..\Pong\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
